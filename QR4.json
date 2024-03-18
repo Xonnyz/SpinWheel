@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What is the main function of RAM in a computer?",
+    "answers": [
+      "Store temporary data",
+      "Run the operating system",
+      "Store permanent data"
+    ],
+    "correct_answer": "Store temporary data"
+  },
+  {
+    "question": "What is the purpose of a loop in programming?",
+    "answers": [
+      "To repeat a block of code",
+      "To store data",
+      "To perform mathematical calculations"
+    ],
+    "correct_answer": "To repeat a block of code"
+  },
+  {
+    "question": "What is the syntax for declaring a variable in JavaScript?",
+    "answers": ["var myVariable;", "variable myVariable;", "myVariable = var;"],
+    "correct_answer": "var myVariable;"
+  },
+  {
+    "question": "What is the difference between '==' and '===' in JavaScript?",
+    "answers": [
+      "'==' compares values, while '===' compares both values and types",
+      "'==' compares types, while '===' compares values",
+      "'==' and '===' are interchangeable in JavaScript"
+    ],
+    "correct_answer": "'==' compares values, while '===' compares both values and types"
+  }
+]
